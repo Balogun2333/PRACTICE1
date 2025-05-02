@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'roberto', sans-serif;
+    background-color: rgb(219, 255, 71);
+    color: #ff6347;
+    background-image: url(./pininterest.png);>/
+    background-size:cover ;J
+    background-repeat: no-repeat;H
+}
+ .HELLO {
+    border: 2px solid black; 
+    color: gold;
+ }
+.container{
+    width: 80%;
+    color: #000;
+    margin: auto;
+    border-right: 5px green solid;
+}
